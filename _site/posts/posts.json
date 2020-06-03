@@ -13,5 +13,20 @@
     "categories": [],
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2020-06-03T10:55:48+02:00"
+  },
+  {
+    "path": "posts/2020-06-03-another-post/",
+    "title": "Another post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Maëlle Salmon",
+        "url": "https://masalmon.eu"
+      }
+    ],
+    "date": "2020-06-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-06-03T11:43:39+02:00"
   }
 ]
