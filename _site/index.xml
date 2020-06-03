@@ -33,6 +33,14 @@ reading what we have to say!</description>
       <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-another-post</link>
       <description>A short description of the post.</description>
       <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-another-post</guid>
+      <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>a post with references</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
+      <description>A short description of the post.</description>
+      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
       <pubDate>mar., 02 juin 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
