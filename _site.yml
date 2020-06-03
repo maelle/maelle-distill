@@ -1,0 +1,12 @@
+name: "maelle-distill"
+title: "Maëlle's Distill R Blog"
+description: |
+  Maëlle's Distill R Blog. Trying out Distill & Rmd instead of Hugo!
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

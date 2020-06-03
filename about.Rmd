@@ -1,0 +1,12 @@
+---
+title: "About this blog"
+description: |
+  Some additional details about the blog
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I do not know Distill a lot yet.
+I do know, and like, R.
