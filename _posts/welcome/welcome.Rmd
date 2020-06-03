@@ -22,5 +22,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Oh, this is my first post!
+I find the date format a bit weird, oh well.
 
+Let me add a footnote.[^offtopic]
+
+And a plot.
+
+```{r, fig.cap="A non informative plot"}
+plot(1:10)
+```
+
+[^offtopic]: Footnotes are the best.
 
