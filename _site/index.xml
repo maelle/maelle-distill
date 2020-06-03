@@ -9,23 +9,12 @@
     <generator>Distill</generator>
     <lastBuildDate>mer., 03 juin 2020 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Untitled</title>
+      <title>a post with references</title>
       <dc:creator>Nora Jones</dc:creator>
-      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled</link>
-      <description>A new article created using the Distill format.</description>
-      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled</guid>
+      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
+      <description>A short description of the post.</description>
+      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
       <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled/distill-preview.png" medium="image" type="image/png"/>
-    </item>
-    <item>
-      <title>Welcome to Maëlle's Distill R Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://maelle-distill-test.netlify.app/posts/welcome</link>
-      <description>Welcome to our new blog, Maëlle's Distill R Blog. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://maelle-distill-test.netlify.app/posts/welcome</guid>
-      <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://maelle-distill-test.netlify.app/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png"/>
     </item>
     <item>
       <title>Another post</title>
@@ -36,12 +25,23 @@ reading what we have to say!</description>
       <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>a post with references</title>
+      <title>Untitled</title>
       <dc:creator>Nora Jones</dc:creator>
-      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
-      <description>A short description of the post.</description>
-      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
-      <pubDate>mar., 02 juin 2020 00:00:00 +0000</pubDate>
+      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled</link>
+      <description>A new article created using the Distill format.</description>
+      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled</guid>
+      <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://maelle-distill-test.netlify.app/posts/2020-06-03-untitled/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to Maëlle's Distill R Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://maelle-distill-test.netlify.app/posts/welcome</link>
+      <description>Welcome to our new blog, Maëlle's Distill R Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://maelle-distill-test.netlify.app/posts/welcome</guid>
+      <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://maelle-distill-test.netlify.app/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
   </channel>
 </rss>

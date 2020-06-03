@@ -11,9 +11,7 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
@@ -21,9 +19,18 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 Nice!
 
-```{r, echo = TRUE}
+<div class="layout-chunk" data-layout="l-body">
+
+```r
 c(1, 2)
 ```
+
+```
+[1] 1 2
+```
+
+</div>
+
 
 ```r
 c(1, 2)
