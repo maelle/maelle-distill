@@ -28,5 +28,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-06-03T11:43:39+02:00"
+  },
+  {
+    "path": "posts/2020-06-03-untitled/",
+    "title": "Untitled",
+    "description": "A new article created using the Distill format.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-06-03",
+    "categories": [],
+    "preview": "posts/2020-06-03-untitled/distill-preview.png",
+    "last_modified": "2020-06-03T11:54:57+02:00"
   }
 ]
