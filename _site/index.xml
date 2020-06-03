@@ -9,14 +9,6 @@
     <generator>Distill</generator>
     <lastBuildDate>mer., 03 juin 2020 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>a post with references</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
-      <description>A short description of the post.</description>
-      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
-      <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Another post</title>
       <dc:creator>Maëlle Salmon</dc:creator>
       <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-another-post</link>
@@ -42,6 +34,14 @@ reading what we have to say!</description>
       <guid>https://maelle-distill-test.netlify.app/posts/welcome</guid>
       <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
       <media:content url="https://maelle-distill-test.netlify.app/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>a post with references</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
+      <description>A short description of the post.</description>
+      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
+      <pubDate>mar., 02 juin 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
