@@ -3,6 +3,8 @@ title: "Maëlle's Distill R Blog"
 description: |
   Maëlle's Distill R Blog. Trying out Distill & Rmd instead of Hugo!
 output_dir: "_site"
+citations: true
+base_url: "https://maelle-distill-test.netlify.app/"
 navbar:
   right:
     - text: "Home"
