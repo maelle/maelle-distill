@@ -16,3 +16,6 @@ rss:
 output: 
   distill::distill_article:
     css: styles.css
+twitter:
+  site: "@ma_salmon"
+  creator: "@ma_salmon"
