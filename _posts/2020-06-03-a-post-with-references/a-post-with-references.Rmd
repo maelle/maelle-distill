@@ -22,3 +22,7 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 A nice package[@jqr]. A nice paper[@refmanager].
 
+$$
+\sigma = \sqrt{ \frac{1}{N} \sum_{i=1}^N (x_i -\mu)^2}
+$$
+

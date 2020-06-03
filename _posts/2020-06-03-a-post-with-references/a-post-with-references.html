@@ -52,7 +52,7 @@
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["refs.bib"]}
+  {"type":"character","attributes":{},"value":["a-post-with-references_files/bowser-1.9.3/bowser.min.js","a-post-with-references_files/distill-2.2.21/template.v2.js","a-post-with-references_files/jquery-1.11.3/jquery.min.js","a-post-with-references_files/webcomponents-2.0.0/webcomponents.js","refs.bib"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -969,6 +969,9 @@
 <p>Distill is a publication format for scientific and technical writing, native to the web.</p>
 <p>Learn more about using Distill at <a href="https://rstudio.github.io/distill" class="uri">https://rstudio.github.io/distill</a>.</p>
 <p>A nice package<span class="citation" data-cites="jqr">(FitzJohn et al. <a href="#ref-jqr" role="doc-biblioref">2018</a>)</span>. A nice paper<span class="citation" data-cites="refmanager">(McLean <a href="#ref-refmanager" role="doc-biblioref">2017</a>)</span>.</p>
+<p><span class="math display">\[
+\sigma = \sqrt{ \frac{1}{N} \sum_{i=1}^N (x_i -\mu)^2}
+\]</span></p>
 <div id="refs" class="references" role="doc-bibliography">
 <div id="ref-jqr">
 <p>FitzJohn, Rich, Jeroen Ooms, Scott Chamberlain, and Stefan Milton Bache. 2018. <em>Jqr: Client for ’Jq’, a ’Json’ Processor</em>. <a href="https://CRAN.R-project.org/package=jqr">https://CRAN.R-project.org/package=jqr</a>.</p>
@@ -984,6 +987,15 @@
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
