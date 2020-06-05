@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
   <channel>
     <title>Maëlle's Distill R Blog</title>
     <link>https://maelle-distill-test.netlify.app/</link>
@@ -7,12 +7,87 @@
     <description>Maëlle's Distill R Blog. Trying out Distill &amp; Rmd instead of Hugo!
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>mer., 03 juin 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>jeu., 04 juin 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>A new post with a branch</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://maelle-distill-test.netlify.app/posts/2020-06-05-a-new-post-with-a-branch</link>
+      <description>
+
+
+&lt;div class="container-fluid main-container"&gt;
+
+
+
+
+&lt;div class="fluid-row" id="header"&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Distill is a publication format for scientific and technical writing, native to the web.&lt;/p&gt;
+&lt;p&gt;Learn more about using Distill at &lt;a href="https://rstudio.github.io/distill" class="uri"&gt;https://rstudio.github.io/distill&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Blabla! Blablabla!&lt;/p&gt;
+
+
+
+
+&lt;/div&gt;
+
+&lt;script&gt;
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+&lt;/script&gt;
+
+&lt;!-- tabsets --&gt;
+
+&lt;script&gt;
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown &gt; .nav-tabs &gt; li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+&lt;/script&gt;
+
+&lt;!-- code folding --&gt;
+
+
+&lt;!-- dynamically load mathjax for compatibility with self-contained --&gt;
+&lt;script&gt;
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+&lt;/script&gt;
+
+</description>
+      <distill:md5>a2bf7ec03227cedb9d206be78d0d3582</distill:md5>
+      <guid>https://maelle-distill-test.netlify.app/posts/2020-06-05-a-new-post-with-a-branch</guid>
+      <pubDate>jeu., 04 juin 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>a post with references</title>
       <dc:creator>Nora Jones</dc:creator>
       <link>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</link>
       <description>A short description of the post.</description>
+      <category>R</category>
       <guid>https://maelle-distill-test.netlify.app/posts/2020-06-03-a-post-with-references</guid>
       <pubDate>mer., 03 juin 2020 00:00:00 +0000</pubDate>
     </item>
